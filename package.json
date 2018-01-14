@@ -7,6 +7,9 @@
     "test": "jest"
   },
   "dependencies": {
+    "appcenter": "^1.1.0",
+    "appcenter-analytics": "^1.1.0",
+    "appcenter-crashes": "^1.1.0",
     "babel-plugin-transform-decorators-legacy": "^1.3.4",
     "flow-bin": "^0.63.1",
     "mobx": "^3.4.1",
